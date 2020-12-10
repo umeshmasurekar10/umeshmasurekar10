@@ -25,16 +25,10 @@
 	<a href="https://linkedin.com/in/umeshmasurekar10" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umeshmasurekar10" height="24" width="36" />
 	</a>
-	<a href="https://twitter.com/umeshmasurekar10" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="umeshmasurekar10" height="24" width="36" style="padding: 20px"/>
-	</a>
-	<a href="https://stackoverflow.com/users/3110234" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3110234" height="24" width="36" />
-	</a>
 	<a href="https://medium.com/@umeshmasurekar10" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@umeshmasurekar10" height="24" width="36" />
 	</a>
-		<a href="https://fb.com/umeshmasurekar10" target="blank">
+		<a href="https://fb.com/aspumesh" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="umeshmasurekar10" height="24" width="36" />
 	</a>
 	<a href="https://instagram.com/umeshmasurekar10" target="blank">
