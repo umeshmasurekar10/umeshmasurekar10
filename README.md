@@ -6,9 +6,9 @@
 <p align="left">
 	<ul>
 		<li>👨‍💻 All of my projects are available at <b><a href="https://umeshmasurekar10.github.io/">https://umeshmasurekar10.github.io/</a></b></li>
-		<li>💬 Ask me about <b>Java, Kotlin, Android, SQL, Spring</b></li>
+		<li>💬 Ask me about <b>Nodejs, Python3, Algorithms, Datastructures, C++, OOPs</b></li>
 		<li>📜 Believer in the <b>clean code, software architecture</b> and <b>design patterns</b></li>
-		<li>📫 Reach out to me at <b><a href="mailto:parikhdarshan36@gmail.com">parikhdarshan36@gmail.com</a></b></li>
+		<li>📫 Reach out to me at <b><a href="mailto:umeshmasurekar10@gmail.com">umeshmasurekar10@gmail.com</a></b></li>
 	</ul>
 </p>
 <br>
