@@ -6,7 +6,7 @@
 <p align="left">
 	<ul>
 		<li>👨‍💻 All of my projects are available at <b><a href="https://umeshmasurekar10.github.io/">https://umeshmasurekar10.github.io/</a></b></li>
-		<li>💬 Ask me about <b>Nodejs, Python3, System Design, Design Patterns, Datastructures, C++, OOPs</b></li>
+		<li>💬 Ask me about <b>Nodejs, Python3, Golang, System Design, Design Patterns, Datastructures, C++, OOPs</b></li>
 		<li>📜 Believer in the <b>clean code, software architecture</b> and <b>design patterns</b></li>
 		<li>📫 Reach out to me at <b><a href="mailto:umeshmasurekar10@gmail.com">umeshmasurekar10@gmail.com</a></b></li>
 	</ul>
